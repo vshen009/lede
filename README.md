@@ -5,6 +5,8 @@ Welcome to Lean's  git source of OpenWrt and packages
 中文：如何编译自己需要的 OpenWrt 固件
 -
 注意：
+
+
 -
 1. **不**要用 **root** 用户 git 和编译！！！
 2. 国内用户编译前最好准备好梯子
